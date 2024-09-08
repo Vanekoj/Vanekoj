@@ -1,5 +1,5 @@
 ## Hello!
-
+I'm a noob and I don't know yet what's best to write :) But over time, more and more information about me will appear here
 <!--
 **Vanekoj/Vanekoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a noob and I don't know yet what's best to write :) But over time, more and more information about me will appear here
+- ⚡ Fun fact: ...
 -->
