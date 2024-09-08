@@ -1,5 +1,12 @@
-## Hello!
-I'm a noob and I don't know yet what's best to write :) But over time, more and more information about me will appear here
+## Hello everyone!
+1. I have a secondary specialized education
+2. I don't have any experience in IT yet :( But I think I'll get it soon
+3. Personal qualities:
+   - Ability to work in a team;
+   - Attentiveness and meticulousness in relation to details;
+   - Responsibility and efficiency;
+   - Ability to listen and hear others;
+   - Desire to learn and discover new things;
 <!--
 **Vanekoj/Vanekoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
